@@ -1,0 +1,514 @@
+[10-Sep-2020 11:53:42 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home3/markaklq/public_html/rmt/customer/class/employees.php on line 98
+[10-Sep-2020 11:55:13 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home3/markaklq/public_html/rmt/customer/class/employees.php on line 98
+[10-Sep-2020 12:02:01 UTC] PHP Warning:  include_once(../config/database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/customer/create.php on line 11
+[10-Sep-2020 12:02:01 UTC] PHP Warning:  include_once(): Failed opening '../config/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/customer/create.php on line 11
+[10-Sep-2020 12:02:01 UTC] PHP Warning:  include_once(../class/employees.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/customer/create.php on line 12
+[10-Sep-2020 12:02:01 UTC] PHP Warning:  include_once(): Failed opening '../class/employees.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/customer/create.php on line 12
+[10-Sep-2020 12:02:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/markaklq/public_html/rmt/customer/create.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/create.php on line 14
+[10-Sep-2020 12:02:30 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home3/markaklq/public_html/rmt/customer/class/employees.php on line 89
+[10-Sep-2020 14:50:23 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 14:50:23 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 14:50:23 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 14:50:23 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 14:50:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 14:50:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 14:50:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 14:50:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 15:31:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 15:31:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 15:31:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 15:31:46 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home3/markaklq/public_html/rmt/customer/customer_read.php on line 40
+[10-Sep-2020 16:47:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/markaklq/public_html/rmt/customer/fetch.php:3
+Stack trace:
+#0 /home3/markaklq/public_html/rmt/customer/fetch.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/fetch.php on line 3
+[10-Sep-2020 16:51:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/markaklq/public_html/rmt/customer/fetch.php:3
+Stack trace:
+#0 /home3/markaklq/public_html/rmt/customer/fetch.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/fetch.php on line 3
+[10-Sep-2020 16:51:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/markaklq/public_html/rmt/customer/fetch.php:3
+Stack trace:
+#0 /home3/markaklq/public_html/rmt/customer/fetch.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/fetch.php on line 3
+[10-Sep-2020 16:51:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/markaklq/public_html/rmt/customer/fetch.php:3
+Stack trace:
+#0 /home3/markaklq/public_html/rmt/customer/fetch.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/fetch.php on line 3
+[10-Sep-2020 16:51:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/markaklq/public_html/rmt/customer/fetch.php:3
+Stack trace:
+#0 /home3/markaklq/public_html/rmt/customer/fetch.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/fetch.php on line 3
+[10-Sep-2020 16:51:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home3/markaklq/public_html/rmt/customer/fetch.php:3
+Stack trace:
+#0 /home3/markaklq/public_html/rmt/customer/fetch.php(3): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/fetch.php on line 3
+[10-Sep-2020 17:06:54 UTC] PHP Fatal error:  Uncaught Error: Class 'SParent' not found in /home3/markaklq/public_html/rmt/customer/customer_show.php:104
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/customer_show.php on line 104
+[10-Sep-2020 17:07:00 UTC] PHP Fatal error:  Uncaught Error: Class 'SParent' not found in /home3/markaklq/public_html/rmt/customer/customer_show.php:104
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/customer_show.php on line 104
+[10-Sep-2020 17:07:21 UTC] PHP Fatal error:  Uncaught Error: Class 'SParent' not found in /home3/markaklq/public_html/rmt/customer/customer_show.php:104
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/customer_show.php on line 104
+[10-Sep-2020 17:07:36 UTC] PHP Fatal error:  Uncaught Error: Class 'SParent' not found in /home3/markaklq/public_html/rmt/customer/customer_show.php:104
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/customer_show.php on line 104
+[10-Sep-2020 17:07:38 UTC] PHP Fatal error:  Uncaught Error: Class 'SParent' not found in /home3/markaklq/public_html/rmt/customer/customer_show.php:104
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/customer_show.php on line 104
+[10-Sep-2020 17:08:32 UTC] PHP Fatal error:  Uncaught Error: Class 'SParent' not found in /home3/markaklq/public_html/rmt/customer/customer_show.php:104
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/customer_show.php on line 104
+[10-Sep-2020 17:08:34 UTC] PHP Fatal error:  Uncaught Error: Class 'SParent' not found in /home3/markaklq/public_html/rmt/customer/customer_show.php:104
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/customer_show.php on line 104
+[10-Sep-2020 17:08:44 UTC] PHP Fatal error:  Uncaught Error: Class 'SParent' not found in /home3/markaklq/public_html/rmt/customer/customer_show.php:104
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/customer_show.php on line 104
+[10-Sep-2020 17:08:46 UTC] PHP Fatal error:  Uncaught Error: Class 'SParent' not found in /home3/markaklq/public_html/rmt/customer/customer_show.php:104
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/customer_show.php on line 104
+[11-Sep-2020 05:27:14 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 186
+[11-Sep-2020 05:35:08 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 05:36:53 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 05:38:10 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 05:40:27 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 05:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function var_dupm() in /home3/markaklq/public_html/rmt/customer/customer_update.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 2
+[11-Sep-2020 05:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 3
+[11-Sep-2020 05:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 4
+[11-Sep-2020 05:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 5
+[11-Sep-2020 05:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 6
+[11-Sep-2020 05:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 7
+[11-Sep-2020 05:42:20 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 05:44:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 3
+[11-Sep-2020 05:44:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 4
+[11-Sep-2020 05:44:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 5
+[11-Sep-2020 05:44:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 6
+[11-Sep-2020 05:44:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 7
+[11-Sep-2020 05:44:37 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 05:45:39 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 05:47:52 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 05:48:58 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 05:48:58 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 22
+[11-Sep-2020 05:48:58 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 05:49:40 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 05:49:40 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 22
+[11-Sep-2020 05:49:40 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 05:50:04 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 05:50:04 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 05:55:54 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[11-Sep-2020 05:57:07 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[11-Sep-2020 06:00:06 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[11-Sep-2020 06:00:24 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 06:00:24 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 188
+[11-Sep-2020 06:01:53 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 06:02:06 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 06:03:09 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 06:05:02 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 06:06:36 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 06:06:58 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[11-Sep-2020 09:42:30 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 09:42:51 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[11-Sep-2020 14:28:26 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 14:29:33 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 14:30:23 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 14:31:54 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 14:33:34 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 14:35:49 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 14:37:11 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[11-Sep-2020 14:37:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:39) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 40
+[14-Sep-2020 16:41:55 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[14-Sep-2020 16:41:59 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[14-Sep-2020 16:42:06 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[15-Sep-2020 07:55:58 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[15-Sep-2020 12:38:09 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[15-Sep-2020 12:38:19 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[15-Sep-2020 12:38:27 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[16-Sep-2020 16:52:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[16-Sep-2020 16:52:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[16-Sep-2020 16:52:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[16-Sep-2020 16:52:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[16-Sep-2020 16:52:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[16-Sep-2020 16:52:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 40
+[16-Sep-2020 16:53:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[16-Sep-2020 16:53:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[16-Sep-2020 16:53:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[16-Sep-2020 16:53:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[16-Sep-2020 16:53:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[16-Sep-2020 16:53:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 40
+[16-Sep-2020 17:01:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[16-Sep-2020 17:01:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[16-Sep-2020 17:01:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[16-Sep-2020 17:01:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[16-Sep-2020 17:01:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[16-Sep-2020 17:01:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 40
+[16-Sep-2020 17:02:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[16-Sep-2020 17:02:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[16-Sep-2020 17:02:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[16-Sep-2020 17:02:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[16-Sep-2020 17:02:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[16-Sep-2020 17:02:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 40
+[16-Sep-2020 17:02:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[16-Sep-2020 17:02:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[16-Sep-2020 17:02:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[16-Sep-2020 17:02:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[16-Sep-2020 17:02:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[16-Sep-2020 17:02:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 40
+[16-Sep-2020 17:03:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[16-Sep-2020 17:03:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[16-Sep-2020 17:03:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[16-Sep-2020 17:03:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[16-Sep-2020 17:03:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[16-Sep-2020 17:03:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 40
+[16-Sep-2020 17:07:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[16-Sep-2020 17:07:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[16-Sep-2020 17:07:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[16-Sep-2020 17:07:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[16-Sep-2020 17:07:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[16-Sep-2020 17:07:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 40
+[16-Sep-2020 19:35:19 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[16-Sep-2020 19:35:21 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[16-Sep-2020 19:35:51 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[16-Sep-2020 19:35:51 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[16-Sep-2020 19:40:01 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[16-Sep-2020 19:40:01 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[16-Sep-2020 19:40:12 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[16-Sep-2020 19:40:12 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[18-Sep-2020 14:36:22 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[22-Sep-2020 10:40:19 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[22-Sep-2020 11:47:53 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 13
+[22-Sep-2020 11:51:52 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 13
+[22-Sep-2020 11:54:57 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 13
+[22-Sep-2020 13:49:23 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 11
+[22-Sep-2020 13:49:37 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 11
+[22-Sep-2020 13:59:03 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 11
+[30-Sep-2020 13:12:45 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:15:33 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:15:37 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:18:29 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:20:25 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:23:46 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:25:29 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:26:17 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 13:26:17 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 270
+[30-Sep-2020 13:27:30 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 13:27:30 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 23
+[30-Sep-2020 13:27:30 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 270
+[30-Sep-2020 13:29:29 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:29:38 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:30:13 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 13:30:13 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 23
+[30-Sep-2020 13:30:13 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 270
+[30-Sep-2020 13:32:28 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:33:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 3
+[30-Sep-2020 13:33:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 4
+[30-Sep-2020 13:33:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 5
+[30-Sep-2020 13:33:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 6
+[30-Sep-2020 13:33:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 7
+[30-Sep-2020 13:33:00 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 13:33:00 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 270
+[30-Sep-2020 13:34:33 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:35:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 3
+[30-Sep-2020 13:35:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 4
+[30-Sep-2020 13:35:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 5
+[30-Sep-2020 13:35:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 6
+[30-Sep-2020 13:35:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 7
+[30-Sep-2020 13:35:04 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 13:35:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 40
+[30-Sep-2020 13:35:30 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:36:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 3
+[30-Sep-2020 13:36:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 4
+[30-Sep-2020 13:36:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 5
+[30-Sep-2020 13:36:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 6
+[30-Sep-2020 13:36:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 7
+[30-Sep-2020 13:36:09 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 13:36:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 40
+[30-Sep-2020 13:36:14 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 13:36:18 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/markaklq/public_html/rmt/customer/update.php on line 20
+[30-Sep-2020 14:52:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[30-Sep-2020 14:52:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[30-Sep-2020 14:52:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[30-Sep-2020 14:52:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[30-Sep-2020 14:52:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[30-Sep-2020 14:54:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[30-Sep-2020 14:54:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[30-Sep-2020 14:54:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[30-Sep-2020 14:54:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[30-Sep-2020 14:54:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[30-Sep-2020 14:54:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 53
+[30-Sep-2020 15:23:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 3
+[30-Sep-2020 15:23:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 4
+[30-Sep-2020 15:23:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 5
+[30-Sep-2020 15:23:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 6
+[30-Sep-2020 15:23:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 7
+[30-Sep-2020 15:23:08 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 15:23:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 40
+[30-Sep-2020 16:00:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 3
+[30-Sep-2020 16:00:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 4
+[30-Sep-2020 16:00:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 5
+[30-Sep-2020 16:00:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 6
+[30-Sep-2020 16:00:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 7
+[30-Sep-2020 16:00:10 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 16:00:10 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 328
+[30-Sep-2020 16:01:47 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 16:01:47 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 328
+[30-Sep-2020 16:03:57 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 16:04:35 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 16:08:40 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 16:08:40 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/markaklq/public_html/rmt/customer/class/customer_function.php on line 328
+[30-Sep-2020 16:10:26 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 16:12:28 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 16:12:54 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 16:17:01 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 16:17:54 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[30-Sep-2020 18:26:50 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[30-Sep-2020 18:34:36 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[30-Sep-2020 18:34:59 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[30-Sep-2020 18:39:46 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[01-Oct-2020 08:25:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[01-Oct-2020 08:25:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[01-Oct-2020 08:25:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[01-Oct-2020 08:25:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[01-Oct-2020 08:25:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[01-Oct-2020 08:27:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[01-Oct-2020 08:27:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[01-Oct-2020 08:27:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[01-Oct-2020 08:27:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[01-Oct-2020 08:27:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[01-Oct-2020 08:28:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[01-Oct-2020 08:28:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[01-Oct-2020 08:28:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[01-Oct-2020 08:28:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[01-Oct-2020 08:28:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[01-Oct-2020 11:04:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/class/customer_function.php:90) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 57
+[01-Oct-2020 12:21:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/class/customer_function.php:90) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 57
+[01-Oct-2020 14:47:34 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_delete.php on line 20
+[01-Oct-2020 15:01:18 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[01-Oct-2020 15:01:50 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[01-Oct-2020 15:02:15 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[04-Oct-2020 16:59:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'markaklq_rmt_tst'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 16:59:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'markaklq_rmt_tst'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:00:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'markaklq_rmt_tst'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:00:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'markaklq_rmt_tst'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:00:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'markaklq_rmt_tst'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:01:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'markaklq_rmt_tst'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:01:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'markaklq_rmt_tst'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:01:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'markaklq_rmt_tst'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:01:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'markaklq_rmt_tst'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:04:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'markaklq_rmt_tst'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:04:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'markaklq_rmt_tst'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:04:51 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/img.php on line 6
+[04-Oct-2020 17:04:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/markaklq/public_html/rmt/customer/img.php on line 10
+[04-Oct-2020 17:08:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:08:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/markaklq/public_html/rmt/customer/img.php on line 39
+[04-Oct-2020 17:08:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/customer/img.php on line 40
+[04-Oct-2020 17:11:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home3/markaklq/public_html/rmt/customer/img.php on line 40
+[04-Oct-2020 17:11:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home3/markaklq/public_html/rmt/customer/img.php on line 40
+[04-Oct-2020 17:16:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'HyQsoft!@34'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:16:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'HyQsoft!@34'@'localhost' (using password: YES) in /home3/markaklq/public_html/rmt/customer/img.php on line 2
+[04-Oct-2020 17:16:07 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/img.php on line 6
+[04-Oct-2020 17:16:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/markaklq/public_html/rmt/customer/img.php on line 10
+[04-Oct-2020 17:17:07 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/img.php on line 7
+[04-Oct-2020 17:17:29 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/img.php on line 7
+[04-Oct-2020 17:18:12 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/img.php on line 6
+[04-Oct-2020 17:18:30 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/img.php on line 6
+[05-Oct-2020 07:06:41 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[05-Oct-2020 07:06:41 UTC] PHP Warning:  file_get_contents(1): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[05-Oct-2020 07:07:47 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/img.php on line 6
+[05-Oct-2020 07:09:38 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[05-Oct-2020 07:09:38 UTC] PHP Warning:  file_get_contents(1): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[05-Oct-2020 07:12:28 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/img.php on line 6
+[05-Oct-2020 07:12:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/customer/img.php on line 49
+[05-Oct-2020 07:12:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/customer/img.php on line 50
+[05-Oct-2020 07:12:51 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/img.php on line 6
+[05-Oct-2020 07:12:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/customer/img.php on line 49
+[05-Oct-2020 07:12:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/customer/img.php on line 50
+[05-Oct-2020 07:32:09 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[05-Oct-2020 07:32:09 UTC] PHP Warning:  file_get_contents(1): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[06-Oct-2020 10:58:05 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[06-Oct-2020 10:58:05 UTC] PHP Warning:  file_get_contents(C): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[06-Oct-2020 11:09:07 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[06-Oct-2020 11:09:07 UTC] PHP Warning:  file_get_contents(S): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[06-Oct-2020 11:15:54 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[06-Oct-2020 11:15:54 UTC] PHP Warning:  file_get_contents(c): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[06-Oct-2020 11:17:51 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 15
+[06-Oct-2020 11:19:10 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 14
+[06-Oct-2020 11:19:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[06-Oct-2020 11:19:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[06-Oct-2020 11:19:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[06-Oct-2020 11:19:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[06-Oct-2020 11:19:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[06-Oct-2020 11:19:53 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 14
+[06-Oct-2020 11:21:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 4
+[06-Oct-2020 11:21:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 5
+[06-Oct-2020 11:21:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 6
+[06-Oct-2020 11:21:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 7
+[06-Oct-2020 11:21:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:2) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 8
+[06-Oct-2020 11:23:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_create.php:54) in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 58
+[06-Oct-2020 11:32:42 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[06-Oct-2020 11:34:00 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 21
+[06-Oct-2020 11:35:00 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 9
+[06-Oct-2020 11:35:00 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 23
+[06-Oct-2020 11:37:21 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 9
+[06-Oct-2020 11:37:21 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 23
+[06-Oct-2020 11:37:39 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 9
+[06-Oct-2020 11:37:39 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 23
+[06-Oct-2020 11:38:21 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 9
+[06-Oct-2020 11:38:21 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 23
+[06-Oct-2020 11:38:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:53) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 60
+[06-Oct-2020 11:38:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 3
+[06-Oct-2020 11:38:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 4
+[06-Oct-2020 11:38:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 5
+[06-Oct-2020 11:38:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 6
+[06-Oct-2020 11:38:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 7
+[06-Oct-2020 11:38:51 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 9
+[06-Oct-2020 11:38:51 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 23
+[06-Oct-2020 11:38:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 60
+[06-Oct-2020 11:45:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 3
+[06-Oct-2020 11:45:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 4
+[06-Oct-2020 11:45:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 5
+[06-Oct-2020 11:45:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 6
+[06-Oct-2020 11:45:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 7
+[06-Oct-2020 11:45:01 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 9
+[06-Oct-2020 11:45:01 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 23
+[06-Oct-2020 11:45:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 60
+[06-Oct-2020 11:46:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 3
+[06-Oct-2020 11:46:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 4
+[06-Oct-2020 11:46:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 5
+[06-Oct-2020 11:46:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 6
+[06-Oct-2020 11:46:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 7
+[06-Oct-2020 11:46:36 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 9
+[06-Oct-2020 11:46:36 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 23
+[06-Oct-2020 11:46:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/customer/customer_update.php:2) in /home3/markaklq/public_html/rmt/customer/customer_update.php on line 60
+[07-Oct-2020 17:14:59 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 10
+[14-Oct-2020 06:18:56 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 10
+[14-Oct-2020 06:28:54 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 10
+[14-Oct-2020 06:32:26 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 10
+[14-Oct-2020 06:33:58 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmt/customer/customer_create.php on line 10
+[14-Oct-2020 13:48:19 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmt/adminvm/customer/customer_delete.php on line 20
+[19-Oct-2020 07:40:44 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_delete.php on line 20
+[19-Oct-2020 12:23:18 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[19-Oct-2020 12:23:18 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[19-Oct-2020 12:57:33 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[19-Oct-2020 12:57:33 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[19-Oct-2020 13:05:18 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[19-Oct-2020 13:05:18 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[19-Oct-2020 13:05:57 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_delete.php on line 20
+[20-Oct-2020 10:02:21 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 10:02:21 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 11:43:29 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 11:43:29 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 11:49:15 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 11:49:15 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 11:49:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php:53) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 60
+[20-Oct-2020 11:53:44 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 11:54:35 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 11:54:35 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 11:55:10 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 11:55:10 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 11:55:53 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 11:55:53 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 11:57:10 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 11:57:10 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 12:32:34 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_create.php on line 10
+[20-Oct-2020 13:05:29 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_create.php on line 10
+[20-Oct-2020 13:13:05 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_create.php on line 10
+[20-Oct-2020 13:25:47 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 13:25:47 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 13:26:24 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 13:26:24 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 13:51:57 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 13:51:57 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 13:54:42 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 13:54:42 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 13:57:00 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 13:57:00 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 13:58:45 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 13:58:45 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:00:48 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:04:16 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:04:16 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:08:02 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:08:02 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:08:14 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:10:30 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:10:30 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:10:45 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:11:13 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:11:13 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:11:24 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:11:59 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:12:09 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:12:09 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:12:58 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:13:15 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:13:15 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:13:54 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:14:05 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:14:05 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:17:52 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:17:52 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:18:20 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:18:20 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:24:21 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:24:21 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:24:34 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:25:10 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:25:10 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:25:28 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:25:41 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:25:41 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:26:10 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:26:10 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:26:31 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:26:58 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:26:58 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 56
+[20-Oct-2020 14:28:47 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:29:51 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:29:55 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:31:11 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:31:11 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 26
+[20-Oct-2020 14:31:33 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 59
+[20-Oct-2020 14:31:54 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:31:54 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 26
+[20-Oct-2020 14:40:24 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:40:52 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:40:52 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 14:41:12 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 14:41:12 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 16:30:02 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 16:30:02 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[20-Oct-2020 16:36:54 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[20-Oct-2020 16:36:54 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[21-Oct-2020 04:29:09 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[21-Oct-2020 04:29:09 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[21-Oct-2020 15:18:06 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[21-Oct-2020 15:18:06 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[21-Oct-2020 15:30:35 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[21-Oct-2020 15:30:35 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[21-Oct-2020 15:31:05 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_delete.php on line 20
+[21-Oct-2020 21:07:23 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 9
+[21-Oct-2020 21:07:23 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23
+[21-Oct-2020 21:07:54 UTC] PHP Warning:  Use of undefined constant c_id - assumed 'c_id' (this will throw an Error in a future version of PHP) in /home3/markaklq/public_html/rmtv0/admin/customer/customer_update.php on line 23

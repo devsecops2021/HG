@@ -1,0 +1,103 @@
+[12-Oct-2020 07:54:12 UTC] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:54:12 UTC] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php:63
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 63
+[12-Oct-2020 07:54:47 UTC] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:54:47 UTC] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:54:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php:63
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 63
+[12-Oct-2020 07:58:14 UTC] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:58:14 UTC] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:58:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php:87
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 87
+[12-Oct-2020 07:58:15 UTC] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:58:15 UTC] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:58:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php:87
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 87
+[12-Oct-2020 07:58:33 UTC] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:58:33 UTC] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:58:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php:87
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 87
+[12-Oct-2020 07:58:35 UTC] PHP Warning:  include_once(config/database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:58:35 UTC] PHP Warning:  include_once(): Failed opening 'config/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 8
+[12-Oct-2020 07:58:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php:87
+Stack trace:
+#0 {main}
+  thrown in /home3/markaklq/public_html/rmt/user_profile/user_profile_read.php on line 87
+[12-Oct-2020 11:54:11 UTC] PHP Warning:  require_once(class/Db.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 11:54:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/Db.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 11:55:25 UTC] PHP Warning:  require_once(class/Db.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 11:55:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/Db.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 11:55:27 UTC] PHP Warning:  require_once(class/Db.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 11:55:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/Db.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 11:56:07 UTC] PHP Warning:  require_once(class/Db.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 11:56:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/Db.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 11:56:50 UTC] PHP Warning:  require_once(class/Db.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 11:56:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/Db.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 11:57:07 UTC] PHP Warning:  require_once(class/Db.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 11:57:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/Db.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/user_profile.php on line 2
+[12-Oct-2020 12:24:35 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:24:35 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:24:35 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:25:18 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:25:18 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:25:18 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:25:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 7
+[12-Oct-2020 12:25:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 8
+[12-Oct-2020 12:25:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 9
+[12-Oct-2020 12:26:47 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:26:47 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:26:47 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:27:33 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:27:33 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:27:33 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:28:27 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:28:27 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:28:27 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:28:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 16
+[12-Oct-2020 12:28:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 17
+[12-Oct-2020 12:29:14 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:29:14 UTC] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:29:14 UTC] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 2
+[12-Oct-2020 12:29:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 16
+[12-Oct-2020 12:29:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 17
+[12-Oct-2020 13:23:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 11
+[12-Oct-2020 13:23:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 12
+[12-Oct-2020 13:23:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 13
+[12-Oct-2020 13:23:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 11
+[12-Oct-2020 13:23:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 12
+[12-Oct-2020 13:23:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 13
+[12-Oct-2020 13:24:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 11
+[12-Oct-2020 13:24:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 12
+[12-Oct-2020 13:24:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 13
+[12-Oct-2020 13:50:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/markaklq/public_html/rmt/user_profile/change_password.php:26) in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 28
+[12-Oct-2020 14:19:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 12
+[12-Oct-2020 14:19:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 13
+[12-Oct-2020 14:19:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 14
+[12-Oct-2020 14:20:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/user_profile/otp.php on line 12
+[12-Oct-2020 14:20:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/otp.php on line 13
+[12-Oct-2020 14:22:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 12
+[12-Oct-2020 14:22:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 13
+[12-Oct-2020 14:22:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/markaklq/public_html/rmt/user_profile/change_password.php on line 14
+[05-Nov-2020 09:58:14 UTC] PHP Warning:  include(navbar_agent.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 128
+[05-Nov-2020 09:58:14 UTC] PHP Warning:  include(navbar_agent.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 128
+[05-Nov-2020 09:58:14 UTC] PHP Warning:  include(): Failed opening 'navbar_agent.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 128
+[05-Nov-2020 09:58:14 UTC] PHP Warning:  include(sidebar_agent.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 137
+[05-Nov-2020 09:58:14 UTC] PHP Warning:  include(sidebar_agent.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 137
+[05-Nov-2020 09:58:14 UTC] PHP Warning:  include(): Failed opening 'sidebar_agent.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 137
+[05-Nov-2020 10:21:40 UTC] PHP Warning:  include(navbar_agent.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 128
+[05-Nov-2020 10:21:40 UTC] PHP Warning:  include(navbar_agent.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 128
+[05-Nov-2020 10:21:40 UTC] PHP Warning:  include(): Failed opening 'navbar_agent.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 128
+[05-Nov-2020 10:21:40 UTC] PHP Warning:  include(sidebar_agent.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 137
+[05-Nov-2020 10:21:40 UTC] PHP Warning:  include(sidebar_agent.php): failed to open stream: No such file or directory in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 137
+[05-Nov-2020 10:21:40 UTC] PHP Warning:  include(): Failed opening 'sidebar_agent.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/markaklq/public_html/rmtv1/user_profile/user_profile.php on line 137
